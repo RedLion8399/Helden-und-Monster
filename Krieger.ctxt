@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Krieger
+comment1.params=pName
+comment1.target=Krieger(java.lang.String)
+comment2.params=
+comment2.target=void\ neustart()
+comment3.params=
+comment3.target=int\ angreifen()
+comment4.params=wert
+comment4.target=void\ schadenBerechnen(int)
+comment5.params=seitenzahl
+comment5.target=int\ wuerfeln(int)
+comment6.params=
+comment6.target=int\ getLebenspunkte()
+numComments=7

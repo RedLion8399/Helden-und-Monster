@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ork
+comment1.params=
+comment1.target=Ork()
+comment2.params=
+comment2.target=void\ neustart()
+comment3.params=
+comment3.target=int\ angreifen()
+comment4.params=wert
+comment4.target=void\ schadenBerechnen(int)
+comment5.params=
+comment5.target=int\ getLebenspunkte()
+numComments=6
